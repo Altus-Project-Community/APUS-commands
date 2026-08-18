@@ -1,0 +1,12 @@
+{
+    "name": "APUS Commands",
+    "version": "1.0",
+    "description": "Official backend for APUS Commands for AltusOS",
+    "commands": [
+        "install",
+        "open",
+        "build",
+        "download"
+    ],
+    "cache_dir": "~/.apus/cache"
+}
