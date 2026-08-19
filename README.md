@@ -7,10 +7,12 @@ This is going to be the "main" way to install user software in Altus so... good!
 
 On your terminal type:
 git clone https://github.com/Altus-Project-Community/APUS-commands.git
+
 cd APUS-commands
 
 then do:
 sudo chmod +x install.sh
+
 sudo ./install.sh
 
 Enjoy having APUS in your system!
