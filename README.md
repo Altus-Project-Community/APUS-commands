@@ -16,3 +16,7 @@ sudo chmod +x install.sh
 sudo ./install.sh
 
 Enjoy having APUS in your system!
+
+The packages for APUS are in https://github.com/Altus-Project-User-Software
+
+Soon it'll use Ninja instead of CMake.
